@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915613659303",
+    "project_id": "geteidea",
+    "storage_bucket": "geteidea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915613659303:android:b00d82fa5e27424cb7eb82",
+        "android_client_info": {
+          "package_name": "com.example.geteidea_task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsyBR6HUGuujx4gXzA0fEGIj67HE_Dt5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
